@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-09-21T08:50:30.764086",
+            "datePublished": "2026-10-18T12:35:37.812440",
             "hasPart": [
                 {
                     "@id": "average-bigwig-between-replicates.ga"
@@ -72,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/average-bigwig-between-replicates",
-            "version": "0.3"
+            "version": "0.4"
         },
         {
             "@id": "#galaxy",
